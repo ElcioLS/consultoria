@@ -17,7 +17,7 @@ Tools • Dart 2.18.6 • DevTools 2.15.0
 
 
 ## Sobre o projeto
-O projeto é astante simples para quem realmente está iniciando como desenvolvedor mobile Flutter
+O projeto é bastante simples para quem realmente está iniciando como desenvolvedor mobile Flutter
 O aprendizado básico foi de grande valia e pude adquirir noções muito boas sobre alguns conceitos básicos importantes.
 
 ## Fotos de algumas telas
